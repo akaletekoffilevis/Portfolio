@@ -1,0 +1,95 @@
+html{
+    background-repeat: no-repeat;
+    background-color: rgb(79, 174, 142);
+}
+body{
+   margin: auto;
+   margin-left: auto;
+   margin-right: auto;
+   background-color: rgba(200, 36, 36, 0);
+}
+/*header*/
+header{
+    align-items: center;
+    justify-content:center;
+    margin-top: 10px;
+    background-color: rgba(0, 0, 0, 0);
+    margin-bottom: 10px;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: cursive,Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    display:flex;
+    position:relative;
+    color: rgb(0, 0, 0);
+}
+#moi{
+    position: relative;
+    background-color: none;
+    align-items:center;
+    display: flex;
+    position:relative;
+}
+nav{
+    background-color: rgba(0, 255, 255, 0);
+   text-align: center;
+   
+}
+/*section*/
+section{ 
+    background-color: rgba(0, 0, 255, 0);
+    overflow-x: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: auto;
+    padding-bottom: 10px;
+
+}
+.li{
+    font-family: cursive ;
+    font-weight: bolder;
+    text-shadow: 22px;
+    align-items: center;
+    display: flex;
+    text-align: right;
+    align-items: baseline;
+}
+aside{
+    margin-top: 10px;
+    margin-bottom: 5px;
+    padding-bottom: 90px;
+    padding-top: auto;
+    background-color: rgba(255, 4, 50, 0);
+    text-align: center;
+    display:flex;
+
+}
+.lien{
+    border-radius: 10%;
+    padding-left: 10%;
+}
+.la{
+    color: rgb(0, 0, 0);
+    margin: 5%;
+    display: flex;
+}
+button{
+    border-radius: 50%;
+    background-color: rgba(250, 235, 215, 0);
+}
+.ma{
+    margin-left: 20px;
+    padding-left: 40px;
+    position:relative;
+    color: black;
+    text-decoration: none;
+}
+.me{
+    margin-right: 20px;
+    padding-left: 50px;
+    position:relative;
+    color: black;
+    text-decoration: none;
+}
